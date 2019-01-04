@@ -1,8 +1,9 @@
 %%				  
 %%				  
-%%	LABORATORY FINAL PROJECT  
-%%				  
-%%	Mouzakitis Nikolaos TP4460
+%%	  
+%%	Banknote classification 
+%%	
+%%	author: Mouzakitis Nikolaos  
 %%				  
 %%				  
 %%				  
